@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/q/PycharmProjects/pump/pump.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=pump
+Name=pump
+Comment[en_US]=pump
+Comment=pump
