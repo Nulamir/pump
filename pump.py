@@ -40,7 +40,7 @@ class AutoLogin:
         self.username = username
         self.password = password
         self.ip = ip
-        s = Service('/home/q/pump/chromedriver')
+        s = Service('/home/q/PycharmProjects/pump/chromedriver')
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument('ignore-certificate-errors')
         chrome_options.add_experimental_option('useAutomationExtension', False)
