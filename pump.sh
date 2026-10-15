@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/usr/bin/python3 /home/q/PycharmProjects/pump/pump.py
+/home/q/PycharmProjects/pump/.venv/bin/python3 /home/q/PycharmProjects/pump/pump.py
